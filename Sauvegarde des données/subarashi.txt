@@ -1,0 +1,59 @@
+PRO:
+	HANLANNON
+	Lydie F.
+	10
+	Algorithmique
+	Réseau Windows
+	Maintenance
+	C
+	HTML
+	CSS
+	Word
+	Excel
+	Access
+	Ragout
+
+PRO:
+	GBAGUIDI
+	Ahonakpon Guy
+	10
+	C
+	C++
+	Python
+	PHP
+	Javascript
+	Réseau Windows
+	Réseau Linux
+	Analyse de données
+	Apprentissage supervisé
+	Base de données
+
+PFL:
+	Bureautique
+	4
+	Word
+	Excel
+	Powerpoint
+	Access
+
+PFL:
+	Admin Réseau
+	2
+	Réseau Windows
+	Réseau Linux
+
+PFL:
+	Charcutier
+	6
+	Découpage mouton
+	Découpage boeuf
+	Découpage porc
+	Fabrication saucisses
+	Froid et congélation
+	Piment de tchatchanga
+
+CPT:
+	3
+	Anatomie
+	Robotique
+	Javascript
